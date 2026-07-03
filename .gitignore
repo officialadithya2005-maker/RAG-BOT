@@ -1,0 +1,32 @@
+# Environment Variables
+.env
+.env.*
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Vector Database
+Vectorstore/
+
+# Sample Documents
+document loaders/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
